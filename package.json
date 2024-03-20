@@ -1,0 +1,19 @@
+{
+    "id": "lipai-property",
+    "name": "里派物业",
+    "displayName": "里派物业",
+    "version": "1.0.1",
+    "description": "使用uniapp+Uview2.0，适配H5、安卓、ios、微信支付宝等小程序。包括物业缴费，家政服务，发布动态，周围商圈便利店、预约，外卖等，社区闲置交易，组织社区周末活动等。",
+    "keywords": [
+        "物业缴费",
+        "家政服务",
+        "周围商圈便利店",
+        "预约外卖"
+    ],
+    "dcloudext": {
+        "category": [
+            "uni-app前端模板",
+            "uni-app前端项目模板"
+        ]
+    }
+}
